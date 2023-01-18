@@ -1,0 +1,16 @@
+CH SATYA SAIKUMAR || EOD || REPORT || 17-JAN-2023
+TASKS : DONE FOR TODAY
+1)prod_vulnerebulitys:-
+ we have update the jenkins as per the vulnerebulity sheet it was updated.
+ (i)LMSTWPINT106--fixed
+ (ii)CTL--fixed 
+ (iii)pending server : waiting for next release
+ EINVMSPDPASSTH.
+
+2)synchronize SVN and Azure DevOps repositories:-
+"WORK_FLOW" :-
+     (i)SVN :-
+	 In this svn first we have take the URL, after that we got to svn > checkout > URL repository (past) the url and next it was asking login credentials.After we successfully place url it shous in green colour tick mark the it was don.
+	 (ii)GIT :-
+     In the git_gub is used some cli commends used for create a new repository on the command line or push an existing repository from the command line or import code from another repository use this process to Import to old/nwe/existing_project to GitHub.
+
